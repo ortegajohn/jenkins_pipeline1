@@ -7,5 +7,5 @@ class Testonething:
         print("setting up")
 
     def test_one_thing(self):
-        print("B")
+        print("This is branch1")
         assert True
